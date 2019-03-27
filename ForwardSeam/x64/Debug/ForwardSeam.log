@@ -1,2 +1,3 @@
 ﻿  Source.cpp
-  ForwardSeam.vcxproj -> C:\Users\user02\Documents\forwardSeam-Project\x64\Debug\ForwardSeam.exe
+c:\users\actiondeveloper1998\documents\forwardseam-project\forwardseam\source.cpp(73): warning C4101: 'k': unreferenced local variable
+  ForwardSeam.vcxproj -> C:\Users\actiondeveloper1998\Documents\forwardSeam-Project\x64\Debug\ForwardSeam.exe
